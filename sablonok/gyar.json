@@ -1,0 +1,23 @@
+{
+  "nyelv": "hu",
+  "felbontas": [1920, 1080],
+  "fps": 30,
+  "bevetel": false,
+  "tts": {
+    "motor": "proba (álhang, csak a lánc kipróbálásához)",
+    "modul": "tts_proba",
+    "eszkoz": "cpu",
+    "hang": "",
+    "licenc": "",
+    "bevetel_engedett": "nem egyértelmű",
+    "max_karakter": 250
+  },
+  "whisper": { "modell": "small", "eszkoz": "cpu" },
+  "render": { "minoseg": "looks", "rejtett": true },
+  "hangero_lufs": -14,
+  "zene": { "mappa": "kozos/zene", "fajl": "", "hangero": 0.11 },
+  "kreditek": [],
+  "gpu_megosztott": false,
+  "youtube": false,
+  "kamera": false
+}

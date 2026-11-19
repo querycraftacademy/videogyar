@@ -1,0 +1,26 @@
+{
+  "cim": "Próbavideó: így készül egy videó a videógyárban",
+  "leiras": "Egy rövid próbavideó, amit a videógyár magától készített: hang, kép, render és keverés egy menetben.",
+  "jelenetek": [
+    {
+      "id": "s0",
+      "cim": "Nyitás",
+      "utemek": [
+        { "mondat": "Ezt a videót egy program készítette, a szövegtől a zenéig.",
+          "kep": { "tipus": "cim", "szoveg": "Magától készült", "alcim": "próbavideó" } },
+        { "mondat": "Három lépésből áll: hang, kép és keverés.",
+          "kep": { "tipus": "kartya", "cim": "A lánc", "pontok": ["hang", "kép", "keverés"] } }
+      ]
+    },
+    {
+      "id": "s1",
+      "cim": "Zárás",
+      "utemek": [
+        { "mondat": "A hang megy elöl, a kép pedig hozzá igazodik.",
+          "kep": { "tipus": "szam", "ertek": 1, "egyseg": "szabály", "cimke": "a hang megy elöl" } },
+        { "mondat": "Köszönöm, hogy megnézted!",
+          "kep": { "tipus": "felirat", "szoveg": "Köszönöm!" } }
+      ]
+    }
+  ]
+}
